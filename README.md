@@ -1,8 +1,8 @@
 # Olá! Eu sou o George Ferreira Barbosa 👋☁️
 
-Bem-vindo ao meu laboratório digital! Depois de mais de **15 anos a manter servidores de pé, redes a comunicar e utilizadores felizes** (com passagens pelo setor financeiro, hotelaria e educação), decidi dar o próximo passo: automatizar tudo isso nas nuvens! 🚀
+Bem-vindo ao meu laboratório digital! Depois de mais de **15 anos a manter servidores de pé, redes a comunicar e utilizadores felizes** (com passagens pelo setor financeiro, hotelaria e educação),[...]
 
-Atualmente baseado em **Lisboa, Portugal**, estou a focar a minha energia na transição para **DevOps, Arquitetura Cloud e Segurança**, transformando a minha experiência de "apagar incêndios" em infraestrutura como código (IaC) resiliente e monitorizada.
+Atualmente baseado em **Lisboa, Portugal**, estou a focar a minha energia na transição para **DevOps, Arquitetura Cloud e Segurança**, transformando a minha experiência de "apagar incêndios" em i[...]
 
 ---
 
@@ -31,7 +31,7 @@ Este repositório é o meu caderno de notas prático. Aqui partilho a minha evol
 **O que estou a construir e aprofundar agora:**
 <p align="left">
   <img src="https://githubusercontent.com" alt="Azure" width="40" height="40"/>
-  <img src="https://githubusercontent.com" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" width="40" height="40"/>
   <img src="https://githubusercontent.com" alt="Terraform" width="40" height="40"/>
   <img src="https://githubusercontent.com" alt="Docker" width="40" height="40"/>
   <img src="https://githubusercontent.com" alt="Kubernetes" width="40" height="40"/>
@@ -42,7 +42,7 @@ Este repositório é o meu caderno de notas prático. Aqui partilho a minha evol
 ---
 
 ### ⚡ Curiosidade sobre mim
-Já geri infraestruturas críticas de bancos e hotéis, mas também já trabalhei com plantas ornamentais e na restauração em Portugal. Ou seja: sei lidar com pressão, trabalho bem em equipa e tenho paciência de sobra para ver os projetos crescerem (sejam eles jardins ou clusters de Kubernetes)! 🌱💻
+Já geri infraestruturas críticas de bancos e hotéis, mas também já trabalhei com plantas ornamentais e na restauração em Portugal. Ou seja: sei lidar com pressão, trabalho bem em equipa e tenh[...]
 
 ---
 
